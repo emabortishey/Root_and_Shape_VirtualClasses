@@ -4,9 +4,9 @@ int main()
 {
 	setlocale(LC_ALL, "Russian");
 
-	Line_root<int> meow(6, 36);
+	Square_root<int> meow(1, 10, -39); 
 
-	cout << meow.get_root();
+	cout << meow.get_root().second;
 
 	return 0;
 }
