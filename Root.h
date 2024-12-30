@@ -9,4 +9,3 @@ class Root
 public:
 	virtual T get_root() = 0;
 };
-
