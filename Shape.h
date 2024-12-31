@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// не думаю что тут нужно что-то объ€сн€ть
 class Shape
 {
 public:
